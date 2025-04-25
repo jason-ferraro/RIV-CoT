@@ -5,8 +5,8 @@
 # ================================
 
 # === CONFIGURATION ===
-DATASET_PATH="/mnt/vita-vldriving/scratch/datasets/AOKVQA"
-SPLIT="okvqa_interleaved_explanation_gpt-4o-mini-2024-07-18_cleaned"
+DATASET_PATH="/mnt/vita-vldriving/scratch/datasets/DrivingVQA"
+SPLIT="trainval"
 CROP_METHOD="normal"
 EXTEND_PERCENT=50
 

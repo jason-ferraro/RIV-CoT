@@ -6,7 +6,7 @@
 
 # === CONFIGURATION ===
 DATASET="drivingvqa"
-DATASET_PATH="/mnt/vita-vldriving/scratch/datasets/DrivingVQA-v2"
+DATASET_PATH="/mnt/vita-vldriving/scratch/datasets/DrivingVQA"
 VARIANT_TYPE="qp-a"
 EXPLANATION_TYPE="original"
 IMAGE_FOLDER="original"
