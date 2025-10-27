@@ -66,7 +66,6 @@ fastapi==0.110.2
 fastjsonschema==2.19.1
 ffmpy==0.3.2
 filelock==3.13.4
-flash-attn==2.5.7
 fonttools==4.51.0
 fqdn==1.5.1
 frozenlist==1.4.1
